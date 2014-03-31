@@ -17,7 +17,7 @@ void loop() {
 \******************************************************************************/
 void Orbit() {
   continuePattern = true;
-  int animationSpeed = 500;
+  int animationSpeed = 125;
   int a = 0;
   int b = 0;
     
